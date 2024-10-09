@@ -1,6 +1,6 @@
 # next-3d-effect-sample
 
-
+![3d-effect-demo](https://github.com/user-attachments/assets/c2c63a20-83e8-4bd1-833a-9e047c7ebe2d)
 
 
 react-three-fiberを使ったサンプル
